@@ -1,0 +1,1 @@
+<?php include ROOT . '/views/layouts/header.php'; ?><ul class="nav nav-tabs">    <li class=""><a href="/course/1">1-й курс</a></li>    <li class=""><a href="/course/2">2-й курс</a></li>    <li class=""><a href="/course/3">3-й курс</a></li>    <li class=""><a href="/course/4">4-й курс</a></li></ul><?php include ROOT . '/views/layouts/footer.php'; ?>

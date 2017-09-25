@@ -1,0 +1,84 @@
+.container{
+    min-width: 720px;
+}
+.table_lec{
+    font-size: 20px;
+    border: 1px solid #dddddd;
+    font-weight: 100;
+    text-decoration: none;
+}
+.table{
+    margin: 0;
+}
+.divtable{
+    margin-bottom: 20px
+}
+#namesub{
+    width: 250px;
+}
+.table td a{
+    text-decoration: none;
+}
+#fcell{
+    width: 50px;
+}
+#ncell{
+    width: 100px;
+    text-align: center;
+}
+#gcell{
+    width: 150px;
+    text-align: center;
+}
+.shadow{
+    box-shadow: 0 0 10px 5px rgba(221, 221, 221, 1);
+    padding: 10px;
+}
+.shadow-nav{
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+}
+.shadow-ntop{
+    padding: 10px;
+    box-shadow: 0 10px 9px rgba(0,0,0,0.2)
+}
+#numcell{
+    border-right: 1px solid #ddd;
+    width: 20px;
+}
+#fio{
+    padding-left: 25px;
+}
+#markh{
+    font-size: 11px;
+    text-align: center;
+    border-left: 1px solid #ddd;
+    padding-left: 0;
+    padding-right: 0;
+}
+#markh span{
+    font-size: 10px;
+}
+#mark{
+    text-align: center;
+    border-left: 1px solid #ddd;
+}
+#mark:hover{
+    background-color: #ddd;
+    cursor: default;
+}
+.list-group{
+    border-right: 0 solid black;
+}
+#subjlist:hover{
+    background-color: rgba(238, 238, 238, 0.5);
+}
+#emcell{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+#namecell{
+    border-right: 1px solid #ddd;
+}
+.thcell{
+    text-align: center;
+}
